@@ -1,6 +1,6 @@
 # NGS WES Alignment Benchmark Suite & Clinical Coverage Platform
 
-> **Publication Reference**: Coquerelle M., Cabello-Aguilar H., et al. *Benchmarking Next-Generation Whole-Exome Alignment Pipelines in Clinical Diagnostics*. **Diseases** (2025).  
+> **Publication Reference**: Cabello-Aguilar H., et al. *Benchmarking Next-Generation Whole-Exome Alignment Pipelines in Clinical Diagnostics*. **Diseases** (2025).  
 > **Target Cluster Directory**: `/NFS/cluster-share/home/mcoquerelle/Explorations/Bench_Alignment`
 
 An interactive, high-performance web application and CLI toolkit designed to evaluate, visualize, and benchmark Next-Generation Sequencing (NGS) Whole-Exome (WES) alignment engines (**DRAGEN v4.0**, **NextGENe v2.4**, **BWA-MEM + Picard**) and calculate binomial variant detection probabilities ($P(\text{Loss})$) for ctDNA and germline diagnostic panels.
