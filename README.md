@@ -152,4 +152,4 @@ Click **"Export Benchmark Package"** in the top navigation bar to download:
 ## License & Citation
 
 When using this suite in scientific publications, please cite:
-> Coquerelle M., Cabello-Aguilar H., et al. *Benchmarking Next-Generation Whole-Exome Alignment Pipelines in Clinical Diagnostics*. **Diseases** (2025).
+> Coquerelle M., Cabello-Aguilar H.*Binomial Variant Loss & LOD Probability  in Clinical Diagnostics*. **Diseases** (2025).
